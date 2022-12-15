@@ -1,5 +1,6 @@
 {
   "name": "webrtc-samples",
+  "author": "Solid Master",
   "version": "1.0.0",
   "description": "Project checking for WebRTC GitHub samples repo",
   "keywords": [
